@@ -1,5 +1,5 @@
 {
-    "name": "wp-premium/acf-field-address",
+    "name": "thinktandem/acf-field-address",
     "type": "wordpress-plugin",
     "autoload": {
         "classmap": [
